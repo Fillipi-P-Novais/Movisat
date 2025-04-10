@@ -27,10 +27,11 @@
                 </header>
             @endisset
 
-            <!-- Page Content -->
+            <!-- para carregar componentes Blade (<x-...>)  -->
             <main>
                 {{ $slot }}
-            </main>
+            </main>            
+
         </div>
     </body>
 </html>
