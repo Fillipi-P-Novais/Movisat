@@ -12,7 +12,7 @@
 
     <style>
         body {
-            background-color: #3baed6; /* Azul da paleta */
+            background-color: #93daf1; /* Azul da paleta */
         }
 
         .sidebar {
@@ -127,8 +127,8 @@
                         </div>
                     </div>
                     <div class="modal-footer">
-                        <button type="submit" class="btn btn-success">Cadastrar</button>
-                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                        <button type="submit" class="btn ">Cadastrar</button>
+                        <button type="button" class="btn " data-bs-dismiss="modal">Cancelar</button>
                     </div>
                 </form>
             </div>
