@@ -77,7 +77,7 @@
         <!-- Main Content -->
         <div class="flex-1 p-6">
             <div class="flex justify-between items-center mb-6">
-                <h1 class="text-2xl font-bold text-white">Painel de controle</h1>
+                <h1 class="text-2xl font-bold text-white">Painel Geral</h1>
             </div>
             <div class="bg-white shadow-lg rounded-lg overflow-hidden">
                 <div id="usuarios-content"></div>                    
